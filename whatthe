@@ -5,5 +5,12 @@
     "key": "HQA_ADMIN_D39Y_QC9E_D16B_AHQD",
     "admin": true,
     "createdAt": "2026-06-27T04:01:09.577Z"
+  },
+  "watheck": {
+    "username": "watheck",
+    "password": "doge",
+    "key": "HQA_TEST_J5LJ_OLOD_F31N",
+    "admin": false,
+    "createdAt": "2026-06-27T08:09:18.784Z"
   }
 }
